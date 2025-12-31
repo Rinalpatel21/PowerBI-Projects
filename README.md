@@ -57,7 +57,7 @@ Key concepts and techniques applied:
 - Key DAX measures
 - Interactive dashboard features
   
-[![Watch the Demo](https://img.youtube.com/vi/3OdHwQxTy2k/maxresdefault.jpg)](https://youtu.be/3OdHwQxTy2k)
+[![Watch the Demo](https://github.com/Rinalpatel21/PowerBI-Projects/blob/main/video-3OdHwQxTy2k-thumb.png)](https://youtu.be/3OdHwQxTy2k)
 
 ## Insights & Recommendations 
 
