@@ -59,7 +59,8 @@ Project Demo
 •	Data model design
 •	Key DAX measures
 •	Interactive dashboard features
-[Entire Screen - Screencastify - December 31, 2025 11_57 AM.webm](https://github.com/user-attachments/assets/9738e756-c57b-4900-8740-05a740e8310a)
+[Project Demo.webm](https://github.com/user-attachments/assets/5b1a6b61-55bc-48a2-81d4-ff5d44ce83ca)
+
 
 
 Insights & Recommendations 
